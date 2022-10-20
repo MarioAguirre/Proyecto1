@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyLoginCheckBox</string>
+    <string name="nombreproyect">Myproyect</string>
+    <string name="nombre">Nombre</string>
+    <string name="hintNombre">Ingrese su nombre</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="hintContrasena">Ingresa Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="chopcion1">Opcion 1</string>
+    <string name="chopcion2">Opcion 2</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="numero1">Ingrese primer numero</string>
+    <string name="numero2">Ingrese segundo numero</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="siguiente">siguiente</string>
+    <string name="reset">Reset</string>
+    <string name="abrirNueva">Abrir Siguiente</string>
+    <string name="abrirWtsp">Abrir WhatsApp</string>
+    <string name="realizarBusqueda">Realizar Busqueda</string>
+    <string name="contactosDirectorios">Contactos de directorio</string>
+    <string name="abrirIntentNueva">Abrir nueva Intent</string>
+</resources>
